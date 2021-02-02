@@ -1,4 +1,5 @@
 #!/bin/bash
-chown: holberton hello
+chown: hello holberon
+
 
 
