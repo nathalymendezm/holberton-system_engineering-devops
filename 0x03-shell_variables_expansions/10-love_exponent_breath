@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "BREAT^LOVE" | bc -l
+echo $(($((BREAT**LOVE))
+	
+
